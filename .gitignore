@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+dist/
+*.zip
+*.sha256
+.pytest_cache/

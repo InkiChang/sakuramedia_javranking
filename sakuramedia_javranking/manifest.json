@@ -1,0 +1,17 @@
+{
+  "plugin_id": "sakuramedia_javranking",
+  "display_name": "JavRanking 影片排行榜",
+  "display_name_i18n": {
+    "zh-CN": "JavRanking 影片排行榜",
+    "en": "JavRanking Movie Rankings"
+  },
+  "description": "同步 JavRanking 的四个榜单，支持一次手动同步或每周定时更新。",
+  "description_i18n": {
+    "zh-CN": "同步 JavRanking 的四个榜单，支持一次手动同步或每周定时更新。",
+    "en": "Sync four JavRanking boards with manual and weekly scheduled updates."
+  },
+  "version": "1.3.2",
+  "host_api_version": 18,
+  "requires_python": ">=3.10",
+  "dependencies": []
+}
